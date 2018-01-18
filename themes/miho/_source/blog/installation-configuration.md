@@ -90,7 +90,7 @@ header_title: MinHow's Blog
 # Head description | 头部描述
 header_description: 一个专注 WEB 开发的技术博客
 # Link to your logo | logo地址
-logo: images/logo.png
+logo: images/logo.jpg
 # Link to your banner_img | 首页banner图地址
 banner_img: images/banner.jpg
 # Menu setting | 菜单设置

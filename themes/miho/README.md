@@ -36,7 +36,7 @@ MiHo requires Hexo 3.0 and above, Compatible with mobile browsing; Theme DEMO:[M
 
 ### Installation Theme
 ``` bash
-$ git clone https://github.com/WongMinHo/hexo-theme-miho.git themes/miho
+$ git clone https://github.com/ifsmile/hexo-theme-miho.git themes/miho
 ```
 
 ### Update
@@ -63,7 +63,7 @@ Modify settings in `themes/miho/_config.yml`，Please use it as needed.
 
 ```
 # hexo-theme-miho
-# https://github.com/wongminho/hexo-theme-miho
+# https://github.com/ifsmile/hexo-theme-miho.git
 
 # Favicon of your site | 网站icon
 favicon: /favicon.ico
@@ -77,7 +77,7 @@ header_title: MinHow's Blog
 # Head description | 头部描述
 header_description: 一个专注 WEB 开发的技术博客
 # Link to your logo | logo地址
-logo: images/logo.png
+logo: images/logo.jpg
 # Link to your banner_img | 首页banner图地址
 banner_img: images/banner.jpg
 # Menu setting | 菜单设置
@@ -110,15 +110,11 @@ social:
     target: true
   github:
     title: Github
-    url: //github.com/wongminho
+    url: //github.com/ifsmile
     target: true
   weibo:
     title: Weibo
-    url: //weibo.com/WongMinHo
-    target: true
-  twitter:
-    title: Twitter
-    url: //twitter.com/huangminhow
+    url: //weibo.com/weixiaodongonly
     target: true
   #qq:
   #weixin:
@@ -165,9 +161,9 @@ reward:
   # 标题
   title: 请我吃糖~
   # 微信，关闭设为 false
-  wechat: images/wechat_code.jpg
+  wechat: images/wechat_code.png
   # 支付宝，关闭设为 false
-  alipay: images/alipay_code.jpg
+  alipay: images/alipay_code.png
 
 # Comments | 评论
 
