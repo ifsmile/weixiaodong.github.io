@@ -7,9 +7,9 @@ favicon: /favicon.ico
 # Header
 
 # Keywords of your site | 网站关键字
-keywords: MinHow,MinHow's Blog
+keywords: vue,js,html,xiaoDong's Blog
 # Head headline | 头部标题
-header_title: MinHow's Blog
+header_title: xiaoDong's Blog
 # Head description | 头部描述
 header_description: 一个专注 WEB 开发的技术博客
 # Link to your logo | logo地址
@@ -128,4 +128,4 @@ access_counter:
   site_pv: 总访问量：
 
 # Copyright Information | 版权信息
-copyright: 2017 MinHow
+copyright: 2018 xiaoDong
