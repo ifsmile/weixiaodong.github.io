@@ -14,9 +14,9 @@ cover_picture: images/mini_program.jpg
 
 ### 创建小程序项目
 - 首先打开安装好的开发者工具，进入小程序
-- ![]('/images/wx_tool.png')
+- ![](/images/wx_tool.png)
 - 点击创建项目
-- ![]('/images/creat_miniProgram.png')
+- ![](/images/creat_miniProgram.png)
 - 选择项目目录
 - AppID不用写，点击 点此体验 按钮就可以
 - 输入项目名称（随意填写）
