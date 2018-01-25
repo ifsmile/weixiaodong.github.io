@@ -41,7 +41,7 @@ menu:
 #    target: true         Whether to jump out | 是否跳出
 social:
   home:
-    title: MinHow
+    title: Home
     url: //www.rabbish.top
     target: true
   github:
