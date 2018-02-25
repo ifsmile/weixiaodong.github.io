@@ -25,11 +25,13 @@
             </a>
         </div>
         <div class="article-feed">
-            <p>
-                <%- truncate(strip_html(post.summary || post.content), {
-                    length: theme.excerpt_length
-                }) %>
-            </p>
+            <a href="<%- url_for(post.path) %>" <% if (theme.open_new_link) {%> target="_blank" <% } %>>
+                <p>
+                    <%- truncate(strip_html(post.summary || post.content), {
+                        length: theme.excerpt_length
+                    }) %>
+                </p>
+            </a>
         </div>
       <% } else { %>
             <%- partial('post/gallery') %>
