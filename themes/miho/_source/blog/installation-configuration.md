@@ -88,7 +88,7 @@ keywords: MinHow,MinHow's Blog
 # Head headline | 头部标题
 header_title: MinHow's Blog
 # Head description | 头部描述
-header_description: 一个专注 WEB 开发的技术博客
+header_description: 学习弯道超车的技巧
 # Link to your logo | logo地址
 logo: images/logo.jpg
 # Link to your banner_img | 首页banner图地址
